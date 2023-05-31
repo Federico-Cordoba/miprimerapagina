@@ -85,6 +85,10 @@ main {
         align-items: center;
         }
 
+        .greeting {
+            text-align: center;
+            }
+            
         .video-container {
         display: flex;
         flex-wrap: wrap;
